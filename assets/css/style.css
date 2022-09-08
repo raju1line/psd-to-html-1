@@ -1,0 +1,361 @@
+.header-area {
+    padding: 20px 0;
+}
+
+.min-manue ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.min-manue li {
+    position: relative;
+    display: inline-block;
+}
+
+.min-manue li a {
+    text-decoration: none;
+    color: #888;
+    display: block;
+    padding: 12px 15px;
+}
+
+.box-button,
+input[type=submit],
+button[type=submit] {
+    background: #EF476F;
+    display: inline-block;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 4px;
+    border: none;
+}
+
+.hero-area {
+    font-weight: 300;
+    padding: 150px 0;
+    border-bottom: 1px solid #f5f5f5;
+}
+
+.header-area h1 {
+    font-size: 40px;
+    max-width: 445px;
+    margin-bottom: 20px;
+    padding-top: 25px;
+}
+
+input[type=url],
+input[type=email],
+input[type=text] {
+    border: 1px solid #F5F5F5;
+    padding: 10px 15px;
+}
+
+input[type=submit],
+button[type=submit] {
+    padding: 11px 25px;
+    font-weight: 400;
+}
+
+.website-checker-from {
+    margin-top: 30px;
+}
+
+.section-padding {
+    padding: 125px 0;
+}
+
+.section-title {
+    font-weight: 300;
+    padding-bottom: 90px;
+}
+
+.single-service-box {
+    border: 1px solid #FAFAFA;
+    padding: 25px;
+    margin-bottom: 50px;
+    line-height: 1.6;
+    transition: all 0.5s ease-out;
+}
+
+.single-service-box:hover {
+    border-color: #ef476f;
+}
+
+.service-logo {
+    font-size: 35px;
+}
+
+a.read-more-button {
+    color: #4A4A4A;
+}
+
+a.read-more-button i.zmdi {
+    padding-left: 2px;
+}
+
+.single-service-box:hover a.read-more-button,
+.single-service-box:hover h3,
+.single-service-box:hover .service-logo {
+    color: #ef476f;
+}
+
+.pdt-50 {
+    padding-top: 50px;
+}
+
+h2 {
+    font-size: 28px;
+    line-height: 37px;
+}
+
+.pdt-50 .box-button {
+    margin-top: 15px;
+}
+
+.section-padding.bg-gray {
+    background-color: #EFEFF1;
+}
+
+.single-case-study {
+    display: table;
+    width: 100%;
+    background-color: #dddd;
+    height: 316px;
+}
+
+.case-study-wrapper {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 30px;
+    text-align: center;
+    transition: all 0.5s ease-out;
+}
+
+.case-study-wrapper h3,
+.case-study-wrapper h4 {
+    color: black;
+}
+
+.case-study-wrapper p {
+    color: black;
+}
+
+a.case-study-more {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    line-height: 44px;
+    color: white;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.case-study-wrapper:hover {
+    background-color: #EF476F;
+}
+
+.case-study-wrapper:hover h3,
+.case-study-wrapper:hover h4,
+.case-study-wrapper:hover p,
+.case-study-wrapper:hover {
+    color: white;
+}
+
+.case-study-wrapper:hover a.case-study-more {
+    background-color: white;
+    color: black;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot span {
+    background: #E2E2E2!important;
+    width: 20px !important;
+    height: 3px !important;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #EF476F !important;
+    width: 20px !important;
+    height: 3px !important;
+}
+/* .owl-carousel .owl-item img */
+.testmonial-meta img {
+    margin-top: 35px !important;
+    display: inline-block !important;
+    width: 65px !important;
+    height: 65px !important;
+    border-radius: 50% !important;
+    margin-bottom: 25px !important;
+}
+.owl-theme .owl-dots .owl-dot {
+    margin-top: 30px !important;
+}
+
+.testmonaial-conten {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+}
+
+.testmonial-meta {
+    text-align: center;
+    color: #9999;
+    font-weight: 300;
+}
+
+.testmonial-meta h4 {
+    color: #333;
+    margin: 27px 0 10px;
+}
+
+.cta-area h2 {
+    padding-top: 11px;
+    color: #333;
+}
+
+.cta-area {
+    background-color: #F8F8F8;
+    padding: 65px 0;
+}
+
+.price-header h4 {
+    font-size: 20px;
+    color: #6E6E6E;
+}
+
+.single-pricing-box {
+    border: 1px solid#F3F3F3;
+    padding: 60px;
+    height: 560px;
+    text-align: center;
+    transition: all 0.3s ease-out;
+}
+
+.price-header h3 {
+    font-size: 50px;
+    color: #ef476f;
+    font-weight: 400;
+}
+
+.price-header p {
+    line-height: 0px;
+    padding-bottom: 15px;
+}
+
+.price-content ul {
+    list-style: none;
+    margin: 0 0 30px;
+    padding: 0;
+}
+
+.price-content ul li {
+    line-height: 30px;
+    font-size: 17px;
+    line-height: 42px;
+}
+
+.price-header {
+    border-bottom: 1px solid #F3F3F3;
+    margin-bottom: 30px;
+}
+
+.single-pricing-box:hover .price-header {
+    border-color: #ef476f;
+    ;
+}
+
+.single-pricing-box:hover {
+    border-color: #ef476f;
+    ;
+}
+.logo-item {
+    display: table;
+    width: 75%;
+    height: 100px;
+    opacity: .7;
+    transition: .2s;
+}
+
+.logo-item:hover {
+    opacity: 1;
+}
+
+.footer-area {
+    background-color: #fdfdfd;
+    padding: 70px 0;
+}
+
+.footer-area ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    line-height: 2.3;
+}
+
+.footer-area h4 {font-size: 20px;color: #333;}
+
+.footer-area a {
+    color: #999999;
+}
+
+.email-subscribe-from input[type='email'] {
+    width: 70%;
+    margin-right: -6px;
+    border-color: #F6F6F6;
+    background-color: #F6F6F6;
+}
+
+.email-subscribe-from input[type='submit'] {
+    width: 30%;
+    border-radius: 0;
+    margin-bottom: 22px;
+}
+
+
+ul.social-link li {
+    display: inline-block;
+    width: 30%;
+}
+.copyright-area {
+    background: #f7f7f7;
+    padding: 15px 0;
+}
+.hero-form {
+    background: #ffff;
+    padding: 50px;
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+}
+
+.hero-form::after {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: #ffff;
+    z-index: -1;
+    top: 9px;
+    left: 9px;
+    border-radius: 5px;
+    opacity: 0.3;
+}
+.hero-form-header {
+    color: #333;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.hero-form input[type='submit'] {
+    width: 160px;
+    display: block;
+    margin: 0 auto;
+    background: #06D6A0;
+    margin-top: 60px;
+}
+
+.hero-form input {
+    width: 100%;
+}
