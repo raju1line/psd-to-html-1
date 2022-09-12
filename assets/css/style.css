@@ -30,7 +30,6 @@ button[type=submit] {
     border-radius: 4px;
     border: none;
 }
-
 .hero-area {
     font-weight: 300;
     padding: 150px 0;
@@ -318,6 +317,10 @@ a.case-study-more {
 ul.social-link li {
     display: inline-block;
     width: 30%;
+}
+ul.social-link i {
+    color: #333;
+    margin-right: 8px;
 }
 .copyright-area {
     background: #f7f7f7;
