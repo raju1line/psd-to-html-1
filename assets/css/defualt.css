@@ -1,10 +1,10 @@
 @font-face {
-    font-family: "khula";
-    src: url("../fonts/Khula-Bold.ttf");
-    src: url("../fonts/Khula-ExtraBold.ttf");
-    src: url("../fonts/Khula-Light.ttf");
-    src: url("../fonts/Khula-Regular.ttf");
-    src: url("../fonts/Khula-SemiBold.ttf");
+  font-family: "khula";
+  src: url("../fonts/Khula-Bold.ttf");
+  src: url("../fonts/Khula-ExtraBold.ttf");
+  src: url("../fonts/Khula-Light.ttf");
+  src: url("../fonts/Khula-Regular.ttf");
+  src: url("../fonts/Khula-SemiBold.ttf");
 }
 
 h1,
@@ -13,20 +13,20 @@ h3,
 h4,
 h5,
 h6 {
-    color: #373737;
-    font-weight: 700;
-    font-style: normal;
-    margin: 0 0 15px;
+  color: #373737;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0 0 15px;
 }
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 button:focus,
@@ -34,11 +34,11 @@ input:focus,
 input:focus,
 textarea,
 textarea:focus {
-    outline: 0;
+  outline: 0;
 }
 
 body {
-    font-family: "khula";
-    font-size: 15px;
-    color: #999;
+  font-family: "khula";
+  font-size: 15px;
+  color: #999;
 }
