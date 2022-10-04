@@ -1,0 +1,48 @@
+.services-bg1.theam4 {
+  background-image: url(../img/service-detail1-bg1.jpg);
+}
+.services-bg2.theam4 {
+  background-image: url(../img/servicedetails-bg2.jpg);
+}
+.services-v1-area.services-bg1.theam4 {
+  background-position: initial;
+}
+.services-v1-area.services-bg1.theam4:after {
+  position: absolute;
+  content: "";
+  background-color: #073b4c;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.5;
+  z-index: -1;
+}
+.section-padding.theam3 h3 {
+  color: #06d6a0;
+}
+.section-padding.theam3 .box-button {
+  display: block;
+  width: 206px;
+  margin: 0 auto;
+}
+.section-padding.theam3 {
+  padding: 0;
+  margin-bottom: 100px;
+}
+.section-padding.theam3 .box-button {
+  display: block;
+  width: 206px;
+  margin: 0 auto;
+}
+
+.section-title.theam3 {
+  padding: 0;
+  margin: 100px 0;
+}
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background: #06d6a0 !important;
+  width: 20px !important;
+  height: 3px !important;
+}

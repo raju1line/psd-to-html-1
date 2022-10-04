@@ -48,6 +48,7 @@ body {
 .single-slide-wrapper h2 {
   font-size: 65px;
   color: #fff;
+  line-height: 80px;
 }
 a.video-play-btn {
   display: block;
@@ -131,10 +132,6 @@ a.video-play-btn i {
 .hero-area.theam3 .box-button {
   background: #06d6a0;
   margin-top: 30px;
-}
-.service-logo h1 {
-  font-size: 70px;
-  color: #dcdcdc;
 }
 
 .service-box-area h3 {

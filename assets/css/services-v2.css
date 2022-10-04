@@ -1,0 +1,21 @@
+.services-bg1.theam3 {
+  background-image: url(../img/service.v2.bg1.jpg);
+}
+.services-bg2.theam3 {
+  background-image: url(../img/ser.jpg);
+}
+
+.services-bg1.theam3:after {
+  position: absolute;
+  content: "";
+  background-color: #073b4c;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.5;
+  z-index: -1;
+}
+.service-box-area.margin-top {
+  margin: 100px 0;
+}

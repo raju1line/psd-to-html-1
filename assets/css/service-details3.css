@@ -1,0 +1,22 @@
+.padding-top,
+.detaile3-content {
+  padding-top: 125px;
+}
+.detail3-content {
+  padding-top: 34px;
+}
+h3.margin-top-50 {
+  margin-top: 50px;
+}
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background: #06d6a0 !important;
+  width: 20px !important;
+  height: 3px !important;
+}
+.services-v1-area.services-bg1.theam6 {
+  background-image: url(../img/servicedetails3-bg-1.jpg);
+}
+.services-v1-area.services-bg2.theam6 {
+  background-image: url(../img/servicedetails3-bg-2.jpg);
+}

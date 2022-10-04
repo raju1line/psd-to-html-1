@@ -25,6 +25,10 @@ h2 {
 h3 {
   font-size: 22px;
 }
+.service-logo h1 {
+  font-size: 70px;
+  color: #dcdcdc;
+}
 
 * {
   margin: 0;
@@ -81,4 +85,7 @@ button[type="submit"] {
 }
 .section-padding {
   padding: 125px 0;
+}
+.shadow-img {
+  box-shadow: 0 0 11px #f5f5f5;
 }
