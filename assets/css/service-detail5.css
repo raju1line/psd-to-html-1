@@ -1,0 +1,67 @@
+.services-v1-area.services-bg1.theam4 {
+  background-image: url(../img/service-detatail5-bg1.jpg);
+}
+.section-padding.datail5 img {
+  width: 100%;
+  object-fit: cover;
+}
+.author-box img {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.social-link-btn a {
+  display: inline-block;
+  background: blue;
+  color: #fff;
+  padding: 9px 14px;
+  border-radius: 27px;
+  margin-right: 20px;
+}
+
+.social-link-btn {
+  margin: 30px 0;
+  border-top: 1px solid #f9f9f9;
+  border-bottom: 1px solid #f9f9f9;
+  padding: 30px 0;
+}
+
+.social-link-btn i {
+  padding-right: 12px;
+}
+
+a.facebook {
+  background: #275baa;
+}
+
+a.twitter {
+  background: #28c8f0;
+}
+
+a.pinterest {
+  background: #d6061e;
+}
+.author-box img {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.author-box {
+  margin-bottom: 50px;
+}
+.comment-area input,
+textarea {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.comment-area textarea {
+  height: 120px;
+}
+
+.comment-area input[type="submit"] {
+  display: inline-block;
+  width: 147px;
+  background: #06d6a0;
+}
